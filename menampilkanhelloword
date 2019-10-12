@@ -1,5 +1,7 @@
 public class helloword{
   public static void mai(string[] args){
     System.out.println("hello word !!");
+    System.out.println("hello rengpel");
+    System.out.println("rengpel asik");
   }
 }
